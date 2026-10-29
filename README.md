@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# I'm Abdulrahman Akanbi
+# Hi there 👋,  I'm Abdulrahman
 
 I am a 3rd year Electrical and Computer Engineering Student at University of Manitoba with a passion of learning new things.
 I am currently diving in embedded and firmware systems and software development.
